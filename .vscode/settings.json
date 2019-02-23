@@ -1,0 +1,6 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorStyle": "block",
+    "editor.insertSpaces": false,
+    "editor.stablePeek": true
+}

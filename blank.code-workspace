@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.insertSpaces": false,
+		"editor.renderWhitespace": "boundary",
+		"editor.cursorStyle": "block",
+		"editor.stablePeek": true,
+		"editor.tabSize": 8
+	}
+}

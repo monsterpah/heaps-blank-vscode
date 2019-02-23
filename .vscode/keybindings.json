@@ -1,0 +1,21 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+	{
+		"key": "backspace backspace",
+		"command": "workbench.action.debug.start",
+		"when": "!inDebugMode"
+	},
+	{
+		"key": "f5",
+		"command": "-workbench.action.debug.start",
+		"when": "!inDebugMode"
+	},
+	{
+		"key": "f5",
+		"command": "workbench.action.tasks.build"
+	},
+	{
+		"key": "ctrl+shift+b",
+		"command": "-workbench.action.tasks.build"
+	}
+]

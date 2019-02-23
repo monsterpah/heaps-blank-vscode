@@ -1,0 +1,5 @@
+-lib heaps
+-js export/game.js
+-D resourcesPath=src/Assets
+-main src.Main
+-debug
